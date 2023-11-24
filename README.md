@@ -6,8 +6,8 @@ insights. I deconstruct intricate datasets and
 turn them into gripping stories that 
 encourage thoughtful decision-making.
 I'm proficient in R programming, Excel, and SQL 
-for data analysis and manipulation, and R programming, 
-Tableau, and Power BI for Data Visualization. 
+for data analysis and manipulation, then Power BI & 
+Tableau for Data Visualization. 
 When I'm not coding, I like to play football, 
 listen to music, and watch movies.
 I'm open to positions as a Data Analyst.😊
