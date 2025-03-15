@@ -5,7 +5,7 @@ transforming unstructured data into meaningful
 insights. I deconstruct intricate datasets and 
 turn them into gripping stories that 
 encourage thoughtful decision-making.
-I'm proficient in R programming, Excel, and SQL 
+I'm proficient in Python programming, Excel, and SQL 
 for data analysis and manipulation, then Power BI & 
 Tableau for Data Visualization. 
 When I'm not coding, I like to play football, 
